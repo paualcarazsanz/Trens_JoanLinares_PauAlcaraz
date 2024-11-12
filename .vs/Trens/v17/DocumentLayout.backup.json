@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paual\\Downloads\\Trens_PauAlcaraz_JoanLinares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E79F5B9-605D-4BEA-BE37-BE62866FAE9E}|Trens\\Trens.csproj|c:\\users\\paual\\downloads\\trens_paualcaraz_joanlinares\\trens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E79F5B9-605D-4BEA-BE37-BE62866FAE9E}|Trens\\Trens.csproj|solutionrelative:trens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paual\\Downloads\\Trens_PauAlcaraz_JoanLinares\\Trens\\Program.cs",
+              "RelativeDocumentMoniker": "Trens\\Program.cs",
+              "ToolTip": "C:\\Users\\paual\\Downloads\\Trens_PauAlcaraz_JoanLinares\\Trens\\Program.cs",
+              "RelativeToolTip": "Trens\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:34:00.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
